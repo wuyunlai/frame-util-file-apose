@@ -28,5 +28,10 @@
     	<version>15.9.0</version>
     </dependency>
  -->
+  	<dependency>
+  		<groupId>cn.wuyl</groupId>
+  		<artifactId>frame.core</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>
